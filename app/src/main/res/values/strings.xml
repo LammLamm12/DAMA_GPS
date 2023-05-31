@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DAMA_GPS</string>
+    <string name="get_gps_position">Get GPS position</string>
+</resources>
